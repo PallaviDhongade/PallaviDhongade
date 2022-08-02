@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PallaviDhongade
-- 👀 I’m interested in 
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning SpringBoot 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 27pallavi1995@gmail.com
 
 <!---
 PallaviDhongade/PallaviDhongade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
